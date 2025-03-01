@@ -3522,3 +3522,89 @@ END
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-02-27 15:23:54.154
 !MESSAGE Boot project ADDED: SpringBootDemo9Project2Player
+!SESSION 2025-03-01 15:14:57.196 -----------------------------------------------
+eclipse.buildId=4.34.0.202411281622
+java.version=21.0.5
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-01 15:15:03.070
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2025-03-01 15:15:16.434
+!MESSAGE Logback config file: C:\Users\RUSHIKESH\OneDrive\Desktop\Workspace-SpringBootDemo\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.7.0.20241001-1350.xml
+
+!ENTRY org.eclipse.ui 2 0 2025-03-01 15:15:17.704
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-03-01 15:15:17.704
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2025-03-01 15:15:18.395
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2025-03-01 15:15:18.395
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-03-01 15:15:24.857
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+D:\Software\STS427\sts-4.27.0.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.5.v20241023-1957\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Dspring.config.location=classpath:/application.properties
+-Xlog:jni+resolve=off
+-XX:ErrorFile=C:/Users/RUSHIKESH/OneDrive/Desktop/Workspace-SpringBootDemo/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1740822324856
+-Dlanguageserver.hover-timeout=225
+-jar
+D:\Software\STS427\sts-4.27.0.RELEASE\plugins\org.springframework.tooling.boot.ls_1.59.0.202411281450\servers\spring-boot-language-server\spring-boot-language-server-1.59.0-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:24.858
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-03-01 15:15:24.881
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 15812
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.026
+!MESSAGE Boot project ADDED: ECommerceApplication1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.027
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.032
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.038
+!MESSAGE Boot project ADDED: SpringBootDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.044
+!MESSAGE Boot project ADDED: SpringBootDemo1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.050
+!MESSAGE Boot project ADDED: SpringBootDemo2
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.056
+!MESSAGE Boot project ADDED: SpringBootDemo4WebMVC
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.065
+!MESSAGE Boot project ADDED: SpringBootDemo5WebMVCWithDataJPA
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.070
+!MESSAGE Boot project ADDED: SpringBootDemo6RESTApiDemo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.072
+!MESSAGE Boot project ADDED: SpringBootDemo7SecurityDEmo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.079
+!MESSAGE Boot project ADDED: SpringBootDemo7SecurityDemo1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.088
+!MESSAGE Boot project ADDED: SpringBootDemo8Project1-Product-Category-1
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.093
+!MESSAGE Boot project ADDED: SpringBootDemo8ProjectLombok
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-03-01 15:15:27.095
+!MESSAGE Boot project ADDED: SpringBootDemo9Project2Player
